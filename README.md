@@ -1,2 +1,2 @@
 # nkouagou.github.io
-My personnal website for future projects
+My personal website for future projects
