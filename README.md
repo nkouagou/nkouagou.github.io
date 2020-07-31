@@ -1,2 +1,1 @@
-# nkouagou.github.io
-My personal website for future projects
+My personal website for projects in Machine Learning and Science
