@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mr. N'Dah / Semantic Web and Machine Learning"
+title                    : "Semantic Web and Machine Learning"
 title_separator          : "-"
 name                     : &name "Jean N'Dah Kouagou"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nkouagou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "nkouagou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Jean-KOUAGOU"
+  github           : "https://github.com/Jean-KOUAGOU/"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/n-dah-jean-kouagou-0863aa18b/"
+  linkedin         : "https://www.linkedin.com/in/n-dah-jean-kouagou-0863aa18b/?originalSubdomain=za"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -149,6 +149,7 @@ exclude:
 keep_files:
   - .git
   - .svn
+  - .jpg
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
