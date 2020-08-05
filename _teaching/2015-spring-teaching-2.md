@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
+title: "Mathematics Tutor"
+collection: tutoring and teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "AZ Birmann High School, Mathematics"
+date: 2019-02-01
+location: "Cape Town, South Africa"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of a teaching experience.
 
-Heading 1
+Creating exercises for students
 ======
 
-Heading 2
+Helping the students to solve the exercises 
 ======
 
-Heading 3
+Organizing quizzes
 ======

@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "On the multi-domain compact finite difference relaxation method for high dimensional chaos: The nine-dimensional Lorenz system"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2020-05-01-paper-title-number-1
+excerpt: 'This paper is about solving the 9D Lorenz system using compact finite difference schemes.'
+date: 2020-05-01
+venue: 'Alexandria Engineering Journal'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1110016820301769'
+citation: 'JN Kouagou, Jean N'Dah Kouagou. (2020). &quot;On the multi-domain compact finite difference relaxation method for high dimensional chaos: The nine-dimensional Lorenz system.&quot; <i>Alexandria Engineering Journal</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about solving the 9D Lorenz system using compact finite difference schemes.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S1110016820301769)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: JN Kouagou, Jean N'Dah Kouagou. (2020). "On the multi-domain compact finite difference relaxation method for high dimensional chaos: The nine-dimensional Lorenz system." <i>Journal 1</i>. 1(1).

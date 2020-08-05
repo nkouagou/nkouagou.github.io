@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Mathematics Teacher"
 collection: teaching
-type: "Undergraduate course"
+type: "High School course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "CEG Djassin, Mathematics"
+date: 2017-10-01
+location: "Porto-Novo, Benin"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of a teaching experience.
 
-Heading 1
+Dispensing the course
 ======
 
-Heading 2
+Organizing exams
 ======
 
-Heading 3
+Marking student copies
 ======

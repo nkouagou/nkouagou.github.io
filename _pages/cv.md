@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Mathematics, University of Abomey-Calavi, 2016
+* M.S. Mathematics, Stellenbosch University, 218
+* Ph.D Candidate in Machine Learning of KnowGraphs, Paderborn University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Research Assistant
+  * AZ Berman High School in Tefelsig, Cape Town
+  * Duties included: Mathematics Tutor
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Academic Year 2017: Teacher
+  * High School Djassin, Benin
+  * Duties included: Teaching, 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Critical Thinking
+* Computer Skills
+  * Programing Skills in Python
+  * Expert in Pytorch, Tensorly
+  
+* Communication Skills
 
 Publications
 ======
