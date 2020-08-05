@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Jean N'dah Kouagou "
   avatar           : "jean-n'dah_photo.jpg"
-  bio              : "Jean N'dah is born in Benin. He schooled at École Primaire Public de Kotopounga Groupe A (EPP/A). He next moved to CEG Kotopounga High School where he started
+  bio              : "Jean N'dah is born in Benin. He schooled at École Primaire Publique de Kotopounga Groupe A (EPP/A). He next moved to CEG Kotopounga High School where he started
                         developing interest in mathematics."
   location         : "Location"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Jean-KOUAGOU/"
+  github           : "/Jean-KOUAGOU/"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "kouagou_dah"
+  twitter          : "/kouagou_dah"
   vine             :
   weibo            :
   xing             :
