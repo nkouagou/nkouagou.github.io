@@ -6,10 +6,10 @@ excerpt: 'This paper is about solving the 9D Lorenz system using compact finite 
 date: 2020-05-01
 venue: 'Journal 1'
 paperurl: 'https://nkouagou.github.io/files/1-s2.0-S1110016820301769-main.pdf'
-citation: JN Kouagou, N'Dah Jean Kouagou. (2020). &quot;On the multi-domain compact finite difference relaxation method for high dimensional chaos.&quot; <i>Journal 1</i>. 1(2).'
+citation: JN Kouagou, N'Dah Jean Kouagou. (2020). &quot;On the multi-domain compact finite difference relaxation method for high dimensional chaos.&quot; <i>Alexandria Engineering Journal</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper is about solving the 9D Lorenz system using compact finite difference schemes.
 
 [Download paper here](https://nkouagou.github.io/files/1-s2.0-S1110016820301769-main.pdf)
 
-Recommended citation: JN, N'Dah Jean Kouagou. (2020). "On the multi-domain compact finite difference relaxation method for high dimensional chaos." <i>Journal 1</i>. 1(2).
+Recommended citation: JN, N'Dah Jean Kouagou. (2020). "On the multi-domain compact finite difference relaxation method for high dimensional chaos." <i>Alexandria Engineering Journal</i>. 1(2).
