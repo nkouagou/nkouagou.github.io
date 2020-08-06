@@ -11,20 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. Mathematics, University of Abomey-Calavi, 2016
-* M.Sc. Mathematics, Stellenbosch University, 218
+* B.Sc. Mathematics, University of Abomey-Calavi, 2016
+* M.Sc. Mathematics, Stellenbosch University, 2018
 * M.Sc. Machine Intelligence, AMMI, 2019
 * Ph.D Candidate in Machine Learning of KnowGraphs, Paderborn University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2019: Research Assistant
+* Summer 2019: M.Sc Student
   * AZ Berman High School in Tefelsig, Cape Town
   * Duties included: Mathematics Tutor
 
 * Academic Year 2017: Teacher
   * High School Djassin, Benin
-  * Duties included: Teaching, 
+  * Duties included: Teaching 
   
 Skills
 ======
