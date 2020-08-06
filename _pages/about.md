@@ -20,7 +20,6 @@ Airplanes
 
 Welcome !
 
-## 
 
 [![Demo CountPages alpha](https://media0.giphy.com/media/kgZfaOsDLCqTlWthCW/giphy.gif)](https://youtu.be/ZbtOGhaG1P8)
 
