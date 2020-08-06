@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. Mathematics, University of Abomey-Calavi, 2016
-* M.S. Mathematics, Stellenbosch University, 218
+* M.Sc. Mathematics, Stellenbosch University, 218
+* M.Sc. Machine intelligence, 2019
 * Ph.D Candidate in Machine Learning of KnowGraphs, Paderborn University, 2023 (expected)
 
 Work experience
@@ -40,18 +41,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
