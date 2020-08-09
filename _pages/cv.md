@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc. Mathematics, University of Abomey-Calavi, 2016
 * M.Sc. Mathematics, Stellenbosch University, 2018
-* M.Sc. Machine Intelligence, AMMI, 2019
+* M.Sc. Machine Intelligence, AMMI, 2020
 * Ph.D Candidate in Machine Learning of KnowGraphs, Paderborn University, 2023 (expected)
 
 Work experience
