@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Semantic Web and Machine Learning"
 title_separator          : "-"
-name                     : &name "Jean N'Dah Kouagou"
+name                     : &name "N'Dah Jean Kouagou"
 description              : &description "personal description"
 url                      : https://nkouagou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,13 +79,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jean N'dah Kouagou "
+  name             : "N'dah Jean Kouagou "
   avatar           : "jean-n'dah_photo.jpg"
-  bio              : "Jean N'dah is born in Benin. He schooled at École Primaire Publique de Kotopounga Groupe A (EPP/A). He next moved to CEG Kotopounga High School where he started
+  bio              : "N'dah Jean is born in Benin. He schooled at École Primaire Publique de Kotopounga Groupe A (EPP/A). He next moved to CEG Kotopounga High School where he started
                         developing interest in mathematics."
-  location         : "Location"
+  location         : "Paderborn"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=V3py6YMAAAAJ"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Ndah_Jean_Kouagou" # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +102,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "/n-dah-jean-kouagou-0863aa18b/?originalSubdomain=za"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4217-897X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "/kouagou_dah"
+  twitter          : "https://twitter.com/kouagou_dah"
   vine             :
   weibo            :
   xing             :

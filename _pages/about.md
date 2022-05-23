@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Future of Machine Learning"
+title: "Together, Let's Build the Future of Machine Learning"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,18 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-The world as we know now and its future.
+Concept Learning with Neural Networks?
 
-Self-driving cars
-======
 
-Airplanes
-======
-
-**Humans**
+**Humans & Robots**
 
 Welcome !
 
-
-[![Demo CountPages alpha](https://media0.giphy.com/media/kgZfaOsDLCqTlWthCW/giphy.gif)](https://youtu.be/ZbtOGhaG1P8)
+![future](future.png)
+# [![Demo CountPages alpha](https://media0.giphy.com/media/kgZfaOsDLCqTlWthCW/giphy.gif)](https://youtu.be/ZbtOGhaG1P8)
 

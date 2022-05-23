@@ -14,7 +14,7 @@ Education
 * B.Sc. Mathematics, University of Abomey-Calavi, 2016
 * M.Sc. Mathematics, Stellenbosch University, 2018
 * M.Sc. Machine Intelligence, AMMI, 2020
-* Ph.D Candidate in Machine Learning of KnowGraphs, Paderborn University, 2023 (expected)
+* Ph.D Candidate in Machine Learning of Knowledge Graphs, Paderborn University, 2023 (expected)
 
 Work experience
 ======
@@ -30,11 +30,12 @@ Skills
 ======
 * Critical Thinking
 * Computer Skills
-  * Programing Skills in Python
-  * Expert in Pytorch, Tensorly
+  * Python
+  * Pytorch
   
 * Communication Skills
-
+  * Public Talks
+  * Scientific Presentations
 Publications
 ======
   <ul>{% for post in site.publications %}
