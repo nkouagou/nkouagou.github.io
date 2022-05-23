@@ -15,6 +15,6 @@ Concept Learning with Neural Networks?
 
 Welcome !
 
-![future](future.png)
-# [![Demo CountPages alpha](https://media0.giphy.com/media/kgZfaOsDLCqTlWthCW/giphy.gif)](https://youtu.be/ZbtOGhaG1P8)
+![future](images/future.png)
+
 
