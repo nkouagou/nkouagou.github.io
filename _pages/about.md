@@ -15,6 +15,6 @@ Concept Learning with Neural Networks?
 
 Welcome !
 
-![future](images/future.png)
+![future](images/future.jpg)
 
 
